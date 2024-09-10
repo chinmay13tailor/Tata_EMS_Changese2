@@ -1,0 +1,14 @@
+Name: Alarms
+Type: AlarmsCategoryFolder
+Children:
+- File: Templates/Templates.yaml
+- File: PLC_Status_Alarms/PLC_Status_Alarms.yaml
+- File: 33KV/33KV.yaml
+- File: Stamping/Stamping.yaml
+- File: TCF/TCF.yaml
+- File: PaintShop/PaintShop.yaml
+- File: BodyShop/BodyShop.yaml
+- File: Utility/Utility.yaml
+- File: Admin/Admin.yaml
+- File: SPP/SPP.yaml
+- File: PUMPROOM/PUMPROOM.yaml

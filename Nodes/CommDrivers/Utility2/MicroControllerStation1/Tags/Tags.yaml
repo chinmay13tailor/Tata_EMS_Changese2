@@ -1,0 +1,902 @@
+Name: Tags
+Type: FolderType
+Children:
+- Name: MCB_MCC_01_OG_2F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F1"
+- Name: MCB_MCC_01_OG_2F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F1_STS"
+- Name: MCB_MCC_01_OG_2F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F1_STS_Co"
+- Name: MCB_MCC_01_OG_2F2
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F2"
+- Name: MCB_MCC_01_OG_2F2_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F2_STS"
+- Name: MCB_MCC_01_OG_2F2_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_2F2_STS_Co"
+- Name: MCB_MCC_01_OG_3F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F1"
+- Name: MCB_MCC_01_OG_3F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F1_STS"
+- Name: MCB_MCC_01_OG_3F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F1_STS_Co"
+- Name: MCB_MCC_01_OG_3F2
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F2"
+- Name: MCB_MCC_01_OG_3F2_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F2_STS"
+- Name: MCB_MCC_01_OG_3F2_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_3F2_STS_Co"
+- Name: MCB_MCC_01_OG_4F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_4F1"
+- Name: MCB_MCC_01_OG_4F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_4F1_STS"
+- Name: MCB_MCC_01_OG_4F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_4F1_STS_Co"
+- Name: MCB_MCC_01_OG_5F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_5F1"
+- Name: MCB_MCC_01_OG_5F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_5F1_STS"
+- Name: MCB_MCC_01_OG_5F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_5F1_STS_Co"
+- Name: MCB_MCC_01_OG_6F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F1"
+- Name: MCB_MCC_01_OG_6F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F1_STS"
+- Name: MCB_MCC_01_OG_6F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F1_STS_Co"
+- Name: MCB_MCC_01_OG_6F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F4"
+- Name: MCB_MCC_01_OG_6F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F4_STS"
+- Name: MCB_MCC_01_OG_6F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_6F4_STS_Co"
+- Name: MCB_MCC_01_OG_7F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F1"
+- Name: MCB_MCC_01_OG_7F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F1_STS"
+- Name: MCB_MCC_01_OG_7F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F1_STS_Co"
+- Name: MCB_MCC_01_OG_7F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F4"
+- Name: MCB_MCC_01_OG_7F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F4_STS"
+- Name: MCB_MCC_01_OG_7F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_7F4_STS_Co"
+- Name: MCB_MCC_01_OG_8F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F1"
+- Name: MCB_MCC_01_OG_8F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F1_STS"
+- Name: MCB_MCC_01_OG_8F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F1_STS_Co"
+- Name: MCB_MCC_01_OG_8F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F4"
+- Name: MCB_MCC_01_OG_8F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F4_STS"
+- Name: MCB_MCC_01_OG_8F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MCC_01_OG_8F4_STS_Co"
+- Name: MCB_MVS_01_IN1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN1"
+- Name: MCB_MVS_01_IN1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN1_STS"
+- Name: MCB_MVS_01_IN1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN1_STS_Co"
+- Name: MCB_MVS_01_IN2
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN2"
+- Name: MCB_MVS_01_IN2_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN2_STS"
+- Name: MCB_MVS_01_IN2_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_IN2_STS_Co"
+- Name: MCB_MVS_01_OG_F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F4"
+- Name: MCB_MVS_01_OG_F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F4_STS"
+- Name: MCB_MVS_01_OG_F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F4_STS_Co"
+- Name: MCB_MVS_01_OG_F5
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F5"
+- Name: MCB_MVS_01_OG_F5_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F5_STS"
+- Name: MCB_MVS_01_OG_F5_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F5_STS_Co"
+- Name: MCB_MVS_01_OG_F6
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F6"
+- Name: MCB_MVS_01_OG_F6_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F6_STS"
+- Name: MCB_MVS_01_OG_F6_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F6_STS_Co"
+- Name: MCB_MVS_01_OG_F7
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F7"
+- Name: MCB_MVS_01_OG_F7_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F7_STS"
+- Name: MCB_MVS_01_OG_F7_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F7_STS_Co"
+- Name: MCB_MVS_01_OG_F8
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F8"
+- Name: MCB_MVS_01_OG_F8_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F8_STS"
+- Name: MCB_MVS_01_OG_F8_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_01_OG_F8_STS_Co"
+- Name: MCB_MVS_02_IN1F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_IN1F1"
+- Name: MCB_MVS_02_IN1F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_IN1F1_STS"
+- Name: MCB_MVS_02_IN1F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_IN1F1_STS_Co"
+- Name: MCB_MVS_02_OG_F3
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F3"
+- Name: MCB_MVS_02_OG_F3_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F3_STS"
+- Name: MCB_MVS_02_OG_F3_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F3_STS_Co"
+- Name: MCB_MVS_02_OG_F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F4"
+- Name: MCB_MVS_02_OG_F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F4_STS"
+- Name: MCB_MVS_02_OG_F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F4_STS_Co"
+- Name: MCB_MVS_02_OG_F5
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F5"
+- Name: MCB_MVS_02_OG_F5_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F5_STS"
+- Name: MCB_MVS_02_OG_F5_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F5_STS_Co"
+- Name: MCB_MVS_02_OG_F6
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F6"
+- Name: MCB_MVS_02_OG_F6_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F6_STS"
+- Name: MCB_MVS_02_OG_F6_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F6_STS_Co"
+- Name: MCB_MVS_02_OG_F7
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F7"
+- Name: MCB_MVS_02_OG_F7_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F7_STS"
+- Name: MCB_MVS_02_OG_F7_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F7_STS_Co"
+- Name: MCB_MVS_02_OG_F8
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F8"
+- Name: MCB_MVS_02_OG_F8_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F8_STS"
+- Name: MCB_MVS_02_OG_F8_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F8_STS_Co"
+- Name: MCB_MVS_02_OG_F9
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F9"
+- Name: MCB_MVS_02_OG_F9_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F9_STS"
+- Name: MCB_MVS_02_OG_F9_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_02_OG_F9_STS_Co"
+- Name: MCB_MVS_03_IN1F1
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_IN1F1"
+- Name: MCB_MVS_03_IN1F1_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_IN1F1_STS"
+- Name: MCB_MVS_03_IN1F1_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_IN1F1_STS_Co"
+- Name: MCB_MVS_03_OG_F3
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F3"
+- Name: MCB_MVS_03_OG_F3_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F3_STS"
+- Name: MCB_MVS_03_OG_F3_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F3_STS_Co"
+- Name: MCB_MVS_03_OG_F4
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F4"
+- Name: MCB_MVS_03_OG_F4_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F4_STS"
+- Name: MCB_MVS_03_OG_F4_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F4_STS_Co"
+- Name: MCB_MVS_03_OG_F5
+  Type: MicroControllerTag
+  DataType: Double
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Value: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F5"
+- Name: MCB_MVS_03_OG_F5_STS
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F5_STS"
+- Name: MCB_MVS_03_OG_F5_STS_Co
+  Type: MicroControllerTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "MCB_MVS_03_OG_F5_STS_Co"

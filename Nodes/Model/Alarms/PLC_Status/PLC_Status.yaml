@@ -1,0 +1,331 @@
+Name: PLC_Status
+Type: FolderType
+Children:
+- Name: 33KVPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/33KVmeters/MicroControllerStation1/Tags/INCOMER_2@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: Utility1PLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/UtilityMeters/MicroControllerStation1/Tags/MCB_MVS_01_IN1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: Utility2PLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/Utility2/MicroControllerStation1/Tags/MCB_MVS_01_IN1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: PaintshopPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/PaintshopMeters/MicroControllerStation1/Tags/PNT_MVS_01_IN_F1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: SPPPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/SPPMeters/MicroControllerStation1/Tags/SSP_MVS_IN1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: BodyShopPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/BodyshopMeters/MicroControllerStation1/Tags/BDY_MVS_01_IN1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: StampingPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/StampingMeters/MicroControllerStation1/Tags/STP_MVS_01_IN_F1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false
+- Name: TCFPLCStatus
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: ConditionalConverter1
+    Type: ConditionalConverter
+    Children:
+    - Name: Condition
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasSource
+      Value: false
+      Children:
+      - Name: ExpressionEvaluator1
+        Type: ExpressionEvaluator
+        Children:
+        - Name: Expression
+          Type: BaseDataVariableType
+          DataType: String
+          ReferenceType: HasParameter
+          Value: "{0} > 0"
+        - Name: ns=3;Source0
+          Type: BaseDataVariableType
+          DataType: BaseDataType
+          ReferenceType: HasSource
+          Children:
+          - Name: DynamicLink
+            Type: DynamicLink
+            DataType: NodePath
+            Value: "../../../../../../../../CommDrivers/TCFMeters/MicroControllerStation1/Tags/TCF_MVS_01_IN_F1@StatusCode"
+    - Name: TrueValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: true
+    - Name: FalseValue
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ReferenceType: HasParameter
+      Value: false

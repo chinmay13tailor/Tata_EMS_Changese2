@@ -1,0 +1,65 @@
+Name: Screens
+Type: ScreensCategoryFolder
+Children:
+- File: RealTimePanels/RealTimePanels.yaml
+- File: HistoricalDashboards/HistoricalDashboards.yaml
+- File: Reports/Reports.yaml
+- File: Alarms/Alarms.yaml
+- File: UsersManagement/UsersManagement.yaml
+- File: JACE_Selected_Panel/JACE_Selected_Panel.yaml
+- Name: RemotePDFViewer
+  Id: g=c3132faec94573a6c9a6b63dd4e19e3e
+  Supertype: PdfViewer
+  ReferenceType: HasComponent
+  Children:
+  - Name: Path
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: ""
+  - Name: CurrentPage
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Width
+    Type: BaseVariableType
+    DataType: Size
+    ModellingRule: Optional
+    Value: 620.0
+  - Name: Height
+    Type: BaseVariableType
+    DataType: Size
+    ModellingRule: Optional
+    Value: 300.0
+  - Name: ManageRemotePdf
+    Type: NetLogic
+    Children:
+    - Class: Method
+      Name: LoadPdf
+      Id: g=3f084cbf795dc884c8c9af66024e161a
+  - Name: PdfServerPath
+    Type: BaseDataVariableType
+    DataType: AbsoluteResourceUri
+    Value: ""
+  - Name: IsNativeUI
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "{Session}/IsNative"
+      Children:
+      - Name: Mode
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        ModellingRule: Optional
+        Value: 2
+  - Name: ZoomMode
+    Type: BaseDataVariableType
+    DataType: PdfViewerZoomMode
+    ModellingRule: Optional
+    Value: 0
+- File: PopUpFolder/PopUpFolder.yaml
+- File: FacePlate/FacePlate.yaml
+- File: AllMeterPanels/AllMeterPanels.yaml

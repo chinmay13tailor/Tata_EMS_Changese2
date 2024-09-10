@@ -5262,10 +5262,6 @@ Children:
             Type: PropertyType
             DataType: NodeId
             Value: {"IdType":0,"Id":0,"Namespace":-1}
-          - Name: DynamicLink
-            Type: DynamicLink
-            DataType: NodePath
-            Value: "{AlarmsEventLogger}/Store@NodeId"
         - Name: Query
           Type: BaseDataVariableType
           DataType: String
@@ -5279,7 +5275,7 @@ Children:
               DataType: LocalizedText
               ReferenceType: HasParameter
               ModellingRule: Optional
-              Value: {"LocaleId":"en-US","Text":"SELECT Jace, Meter, Parameter, ActiveState_Id, EnabledState_Id, AckedState_Id, ConfirmedState_Id, ConditionName, SourceName, {1:sql_identifier} AS Message, Severity, LocalTime FROM {0:sql_identifier} WHERE LocalTime BETWEEN {2:sql_literal} AND {3:sql_literal} ORDER BY LocalTime DESC"}
+              Value: {"LocaleId":"en-US","Text":"SELECT Jace, Meter, Parameter, ActiveState_Id, EnabledState_Id, AckedState_Id, ConfirmedState_Id, ConditionName, SourceName, {1:sql_identifier} AS Message, Severity, LocalTime FROM {0:sql_identifier} WHERE LocalTime BETWEEN {2:sql_literal} AND {3:sql_literal}"}
             - Name: Source0
               Type: BaseDataVariableType
               DataType: BaseDataType
